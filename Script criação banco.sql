@@ -1,6 +1,3 @@
-
-Script de criação de dados
-
 CREATE TABLE raca (
     id int identity(1,1) primary key,
     nomeraca varchar(255),
